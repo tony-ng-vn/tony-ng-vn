@@ -13,3 +13,4 @@ Computer Science student building practical software and exploring agentic produ
 ## Find me
 
 - [LinkedIn](https://www.linkedin.com/in/tony-buildd/)
+- [X](https://x.com/tonybuildd)
