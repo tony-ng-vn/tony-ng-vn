@@ -2,8 +2,6 @@
 
 Computer Science student building practical software and exploring agentic products.
 
-## Main
-- [Euno](https://github.com/tony-ng-vn/euno) -- A private social platform to find back people in your life
 ## Currently building
 
 - [Beatcut](https://github.com/tony-ng-vn/beatcut) -- Drop in photos and a song to create a video that cuts on the beat, entirely in the browser.
